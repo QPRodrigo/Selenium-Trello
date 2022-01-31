@@ -52,7 +52,10 @@ class EspacioTrabajo(unittest.TestCase):
 		time.sleep(10)
 
 
-		# En la interfaz principal 
+		#En el archivo datos.py
+		#class datos_personales:
+		#	email_address = 'correo
+		#	password = 'contraseña'
 
 
 	def tearDown(self):
